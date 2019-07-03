@@ -1,0 +1,22 @@
+{
+  "name": "basic-nodejs-aws",
+  "version": "1.0.0",
+  "description": "Testing deployment in aws",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielo91/basic-nodejs-aws.git"
+  },
+  "author": "Gabriel Ortega <gabrielo_9103@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielo91/basic-nodejs-aws/issues"
+  },
+  "homepage": "https://github.com/gabrielo91/basic-nodejs-aws#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
