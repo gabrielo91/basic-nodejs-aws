@@ -1,6 +1,5 @@
 FROM node:alpine
-RUN mkdir code
-COPY . code
+COPY . .
 EXPOSE 80
 
 ENV PORT=80
